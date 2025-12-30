@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunTracker.Strava", "RunTracker.Strava\RunTracker.Strava.csproj", "{FF5CA974-628D-4ED0-A885-AEC57BB04E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunTracker.Client", "RunTracker.Client\RunTracker.Client.csproj", "{D5B8ED7D-5F80-3B82-1458-ED78384E8AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunTracker", "RunTracker\RunTracker.csproj", "{42059521-9E97-8713-6A50-B219FCF7C7F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5CA974-628D-4ED0-A885-AEC57BB04E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5CA974-628D-4ED0-A885-AEC57BB04E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5CA974-628D-4ED0-A885-AEC57BB04E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5CA974-628D-4ED0-A885-AEC57BB04E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B8ED7D-5F80-3B82-1458-ED78384E8AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B8ED7D-5F80-3B82-1458-ED78384E8AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B8ED7D-5F80-3B82-1458-ED78384E8AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B8ED7D-5F80-3B82-1458-ED78384E8AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42059521-9E97-8713-6A50-B219FCF7C7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42059521-9E97-8713-6A50-B219FCF7C7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42059521-9E97-8713-6A50-B219FCF7C7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42059521-9E97-8713-6A50-B219FCF7C7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {232878F9-93EA-497E-8AEE-9DA3CD77FB80}
+	EndGlobalSection
+EndGlobal
